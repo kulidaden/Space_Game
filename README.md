@@ -12,3 +12,17 @@
 3) `pip install -r requirements.txt`
 4) `pyinstaller --onefile --distpath ./ DataBase.py`
 5) `./DataBase.exe`
+
+## Name and description of the game
+Title "Space Defenders"
+
+## 
+This is a 2D game in which you control an indirect plane and destroy aliens.  You can view leaderboards and compete with other players locally.  You need to register/authenticate to enter the menu, where you will have a list of options, namely: start the game, leaderboard, instructions, where you can familiarize yourself with the game, about the game.
+
+## Installation:
+Open a terminal in the directory where you want to install the game and type the following commands:
+1) `git clone https://github.com/kulidaden/Space_Game.git`
+2) `cd Space_Game`
+3) `pip install -r requirements.txt`
+4) `pyinstaller --onefile --distpath ./ DataBase.py`
+5) `./DataBase.exe`
