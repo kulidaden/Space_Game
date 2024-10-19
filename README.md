@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>
-      <img src="./img/inos.jpg" alt="Image" width="200px";">
+      <img src="./img/inos.jpg" alt="Image" width="500px";">
     </td>
     <td>
       <p>
