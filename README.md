@@ -19,7 +19,7 @@
     </td>
 </table>
 
-## stgdfg
+
 <table>
   <tr>
     <td>Мова</td>
