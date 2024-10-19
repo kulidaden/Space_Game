@@ -1,6 +1,6 @@
 <p align="center">
- <img width="100px" src="./python.pdf" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
+ <img width="10px" height='10px' src="./python.pdf" align="center" alt="Space Defenders" />
+ <h2 align="center">Space Defenders</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
 ##
