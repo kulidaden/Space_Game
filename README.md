@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>База даних</td>
-    <td>SQLite<img src="./img/Рисунок1.png" alt="Image";"></td>
+    <td>SQLite<img src="./img/SQLite.png" alt="Image";"></td>
   </tr>
 </table>
 
