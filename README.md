@@ -1,14 +1,7 @@
 <p align="center">
  <img width="400px" height='250px' src="./What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
  <h2 align="center">Space Defenders</h2>
- <style>
-    p.center-text {
-        font-size: 150px;
-        text-align: center;
-    }
-</style>
-
-<p class="center-text">Знищуйте прибульців, доки вони не захопили Землю!</p>
+ <p style="font-size: 150; text-align: center;">Знищуйте прибульців, доки вони не захопили Землю!</p>
 </p>
 ## 
 Це 2D гра в якій ви керуєте косвічним літаком та знищуєте прибульців. Ви можете переглядати таблицю лідерів та змагатись із іншими гравцями на локальному рівні.
