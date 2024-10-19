@@ -33,8 +33,7 @@
   <img width="450px" height='250px' src="./img/What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
   <h2 align="center">🚀Space Defenders👾</h2>
 </p>
-
-# <p align="center">💥Destroy the aliens until they destroy YOU!💥</p>
+<h2><p align="center">💥Destroy the aliens until they destroy YOU!💥</p></h2>
 <table>
     <td>
       <img src="./img/inos.jpg" alt="Image" width="500px";">
