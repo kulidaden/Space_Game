@@ -25,6 +25,10 @@
     <td>Мова</td>
     <td>Python <img src="./img/Рисунок1.png" alt="Image";"></td>
   </tr>
+  <tr>
+    <td>База даних</td>
+    <td>SQLite<img src="./img/Рисунок1.png" alt="Image";"></td>
+  </tr>
 </table>
 
 # Інсталяція
