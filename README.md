@@ -19,7 +19,7 @@
     </td>
 </table>
 
-## технології
+## stgdfg
 <table>
   <tr>
     <td>Мова</td>
