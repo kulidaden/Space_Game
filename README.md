@@ -3,7 +3,7 @@
   <h2 align="center">🚀Space Defenders👾</h2>
 </p>
 
-# <p align="center">💥 Знищуй прибульців, доки вони не знищили ТЕБЕ! 💥</p>
+# <p align="center">💥Знищуй прибульців, доки вони не знищили ТЕБЕ!💥</p>
 <table>
     <td>
       <img src="./img/inos.jpg" alt="Image" width="500px";">
@@ -33,7 +33,7 @@
   <h2 align="center">🚀Space Defenders👾</h2>
 </p>
 
-# <p align="center">💥 Destroy the aliens until they destroy YOU! 💥</p>
+# <p align="center">💥Destroy the aliens until they destroy YOU!💥</p>
 <table>
     <td>
       <img src="./img/inos.jpg" alt="Image" width="500px";">
