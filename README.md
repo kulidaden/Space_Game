@@ -67,6 +67,22 @@
     </td>
 </table>
 
+# Knowledges
+<table>
+  <tr>
+    <td>Language</td>
+    <td>Python<img src="./img/Рисунок1.png" alt="Image";"></td>
+  </tr>
+  <tr>
+    <td>Data Base</td>
+    <td>SQLite<img src="./img/SQLite.png" alt="Image" width="20px" height="20px";"></td>
+  </tr>
+  <tr>
+    <td>Principles</td>
+    <td>OOP</td>
+  </tr>
+</table>
+
 ## Installation:
 Open a terminal in the directory where you want to install the game and type the following commands:
 1) `git clone https://github.com/kulidaden/Space_Game.git`
