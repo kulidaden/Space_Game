@@ -1,5 +1,5 @@
   <p align="center">
-  <img width="400px" height='250px' src="./What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
+  <img width="400px" height='250px' src="./img/What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
   <h2 align="center">🚀Space Defenders👾</h2>
 </p>
 
