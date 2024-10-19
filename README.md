@@ -29,6 +29,10 @@
     <td>База даних</td>
     <td>SQLite<img src="./img/SQLite.png" alt="Image" width="20px" height="20px";"></td>
   </tr>
+  <tr>
+    <td>Принципи</td>
+    <td>OOP<img src="./img/SQLite.png" alt="Image" width="20px" height="20px";"></td>
+  </tr>
 </table>
 
 # Інсталяція
