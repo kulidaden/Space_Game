@@ -23,8 +23,7 @@
 <table>
   <tr>
     <td>Мова</td>
-    <td>Python![image](https://github.com/user-attachments/assets/ef17d111-8284-4865-b22d-c32233e16bc3)
-</td>
+    <td>Python <img src="./img/Рисунок1.png" alt="Image";"></td>
   </tr>
 </table>
 
