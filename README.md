@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="450px" height='250px' src="./img/What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
+  <img width="450px" height='250px' src="./img_for_read_me/What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
   <h2 align="center">🚀Space Defenders👾</h2>
 </p>
 <h2><p align="center">💥Знищуй прибульців, доки вони не знищили ТЕБЕ!💥</p></h2>
 <table>
     <td>
-      <img src="./img/inos.jpg" alt="Image" width="500px";">
+      <img src="./img_for_read_me/inos.jpg" alt="Image" width="500px";">
     </td>
     <td>
       <p>
@@ -23,11 +23,11 @@
 <table>
   <tr>
     <td>Мова</td>
-    <td>Python <img src="./img/Рисунок1.png" alt="Image";"></td>
+    <td>Python <img src="./img_for_read_me/Рисунок1.png" alt="Image";"></td>
   </tr>
   <tr>
     <td>База даних</td>
-    <td>SQLite<img src="./img/SQLite.png" alt="Image" width="20px" height="20px";"></td>
+    <td>SQLite<img src="./img_for_read_me/SQLite.png" alt="Image" width="20px" height="20px";"></td>
   </tr>
   <tr>
     <td>Принципи</td>
@@ -46,13 +46,13 @@
 ## 
 
 <p align="center">
-  <img width="450px" height='250px' src="./img/What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
+  <img width="450px" height='250px' src="./img_for_read_me/What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
   <h2 align="center">🚀Space Defenders👾</h2>
 </p>
 <h2><p align="center">💥Destroy the aliens until they destroy YOU!💥</p></h2>
 <table>
     <td>
-      <img src="./img/inos.jpg" alt="Image" width="500px";">
+      <img src="./img_for_read_me/inos.jpg" alt="Image" width="500px";">
     </td>
     <td>
       <p>
@@ -71,11 +71,11 @@
 <table>
   <tr>
     <td>Language</td>
-    <td>Python<img src="./img/Рисунок1.png" alt="Image";"></td>
+    <td>Python<img src="./img_for_read_me/Рисунок1.png" alt="Image";"></td>
   </tr>
   <tr>
     <td>Data Base</td>
-    <td>SQLite<img src="./img/SQLite.png" alt="Image" width="20px" height="20px";"></td>
+    <td>SQLite<img src="./img_for_read_me/SQLite.png" alt="Image" width="20px" height="20px";"></td>
   </tr>
   <tr>
     <td>Principles</td>
