@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Принципи</td>
-    <td>OOP<img src="./img/SQLite.png" alt="Image" width="20px" height="20px";"></td>
+    <td>OOP</td>
   </tr>
 </table>
 
