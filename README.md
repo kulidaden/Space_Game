@@ -1,8 +1,8 @@
-<p align="center">
+## <p align="center">
  <img width="400px" height='250px' src="./What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
  <h2 align="center">Space Defenders</h2>
  <p style="font-size: 150px; text-align: center;">
-   💥 **Знищуйте прибульців, доки вони не захопили Землю!** 💥
+   💥 Знищуйте прибульців, доки вони не захопили Землю! 💥
 </p>
 
 </p>
