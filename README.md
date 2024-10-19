@@ -4,7 +4,6 @@
 </p>
 <h2><p align="center">💥Знищуй прибульців, доки вони не знищили ТЕБЕ!💥</p></h2>
 <table>
-  <tr>
     <td>
       <img src="./img/inos.jpg" alt="Image" width="500px";">
     </td>
@@ -18,10 +17,14 @@
         </h2>
       </p>
     </td>
-  </tr>
+</table>
+
+##
+<table>
   <tr>
-    <td>asdfasdf</td>
-    <td>32423423</td>
+    <td>Мова</td>
+    <td>Python![image](https://github.com/user-attachments/assets/ef17d111-8284-4865-b22d-c32233e16bc3)
+</td>
   </tr>
 </table>
 
