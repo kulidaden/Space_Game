@@ -28,11 +28,28 @@
 4) `pyinstaller --onefile --distpath ./ DataBase.py`
 5) `./DataBase.exe`
 
-## Name and description of the game
-Title "Space Defenders"
+<p align="center">
+  <img width="400px" height='250px' src="./img/What-is-Python-3.12_11zon.webp" align="center" alt="Space Defenders" />
+  <h2 align="center">🚀Space Defenders👾</h2>
+</p>
 
-## 
-This is a 2D game in which you control an indirect plane and destroy aliens.  You can view leaderboards and compete with other players locally.  You need to register/authenticate to enter the menu, where you will have a list of options, namely: start the game, leaderboard, instructions, where you can familiarize yourself with the game, about the game.
+# <p align="center">💥 Destroy the aliens until they destroy YOU! 💥</p>
+<table>
+    <td>
+      <img src="./img/inos.jpg" alt="Image" width="500px";">
+    </td>
+    <td>
+      <p>
+        <h2>
+          This is a 2D game in which you control an indirect plane and destroy aliens.<br>
+          You can view leaderboards and compete with other players locally.<br>
+          You need to register/authenticate to enter the menu,<br>
+          where you will have a list of options, namely: start the game, <br>
+          leaderboard, instructions, where you can familiarize yourself with the game, about the game.
+        </h2>
+      </p>
+    </td>
+</table>
 
 ## Installation:
 Open a terminal in the directory where you want to install the game and type the following commands:
